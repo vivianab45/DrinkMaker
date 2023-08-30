@@ -1,0 +1,15 @@
+/Users/vivianaballeza/Documents/coding_dojo/C#/DrinkMaker/bin/Debug/net6.0/DrinkMaker
+/Users/vivianaballeza/Documents/coding_dojo/C#/DrinkMaker/bin/Debug/net6.0/DrinkMaker.deps.json
+/Users/vivianaballeza/Documents/coding_dojo/C#/DrinkMaker/bin/Debug/net6.0/DrinkMaker.runtimeconfig.json
+/Users/vivianaballeza/Documents/coding_dojo/C#/DrinkMaker/bin/Debug/net6.0/DrinkMaker.dll
+/Users/vivianaballeza/Documents/coding_dojo/C#/DrinkMaker/bin/Debug/net6.0/DrinkMaker.pdb
+/Users/vivianaballeza/Documents/coding_dojo/C#/DrinkMaker/obj/Debug/net6.0/DrinkMaker.csproj.AssemblyReference.cache
+/Users/vivianaballeza/Documents/coding_dojo/C#/DrinkMaker/obj/Debug/net6.0/DrinkMaker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vivianaballeza/Documents/coding_dojo/C#/DrinkMaker/obj/Debug/net6.0/DrinkMaker.AssemblyInfoInputs.cache
+/Users/vivianaballeza/Documents/coding_dojo/C#/DrinkMaker/obj/Debug/net6.0/DrinkMaker.AssemblyInfo.cs
+/Users/vivianaballeza/Documents/coding_dojo/C#/DrinkMaker/obj/Debug/net6.0/DrinkMaker.csproj.CoreCompileInputs.cache
+/Users/vivianaballeza/Documents/coding_dojo/C#/DrinkMaker/obj/Debug/net6.0/DrinkMaker.dll
+/Users/vivianaballeza/Documents/coding_dojo/C#/DrinkMaker/obj/Debug/net6.0/refint/DrinkMaker.dll
+/Users/vivianaballeza/Documents/coding_dojo/C#/DrinkMaker/obj/Debug/net6.0/DrinkMaker.pdb
+/Users/vivianaballeza/Documents/coding_dojo/C#/DrinkMaker/obj/Debug/net6.0/DrinkMaker.genruntimeconfig.cache
+/Users/vivianaballeza/Documents/coding_dojo/C#/DrinkMaker/obj/Debug/net6.0/ref/DrinkMaker.dll
